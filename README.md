@@ -1,6 +1,8 @@
 # 🌍 GlobeX
 
-GlobeX is a React-based interactive web application that challenges users to guess countries using clues such as region, capital, and language. It combines learning with gameplay, making geography engaging and enjoyable.
+GlobeX is an interactive geography-based web application built using React that transforms country identification into an engaging game. Instead of directly presenting information, the application encourages users to think and analyze by providing meaningful clues such as region, capital, and language.
+
+The project focuses on combining learning with interactivity, making it both educational and enjoyable. By using real-world country data, GlobeX ensures that each session feels dynamic and different, enhancing user engagement.
 
 ---
 
